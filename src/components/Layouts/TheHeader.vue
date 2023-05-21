@@ -1,7 +1,7 @@
 <template>
     <div class="text-center">
         <header>
-            <h1>Shopping Cart - Assignment 2</h1>
+            <h1>Shopping Cart - Assignment 3</h1>
             <hr>
         </header>
     </div>

@@ -1,7 +1,7 @@
 <template>
     <div class="row">
         <div class="col">
-            <button type="button" class="btn btn-info btn-md btn-block" v-on:click="selectTab('add-product')">Add New Product</button>
+            <button type="button" class="btn btn-info btn-md btn-block" v-on:click="selectTab('add-product')">Cart List</button>
         </div>
     </div>
 </template>
